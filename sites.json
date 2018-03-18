@@ -1705,11 +1705,18 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "pilgwon's blog",
-            "author": "pilgwon",
-            "site_url": "https://pilgwon.github.io/blog/",
-            "feed_url": "https://pilgwon.github.io/blog/feed.xml",
-            "twitter_url": "https://twitter.com/pilgwon"
+            "title": "Batuhan Saka on Medium",
+            "author": "Batuhan Saka",
+            "site_url": "https://medium.com/@strawb3rryx7",
+            "feed_url": "https://medium.com/feed/@strawb3rryx7",
+            "twitter_url": "https://twitter.com/strawb3rryx7"
+          },
+          {
+            "title": "Mehmet Koca on Medium",
+            "author": "Mehmet KOCA",
+            "site_url": "https://medium.com/@mhmtkc",
+            "feed_url": "https://medium.com/feed/@mhmtkc",
+            "twitter_url": "https://twitter.com/mehmetkcaa"
           }
         ]
       }
